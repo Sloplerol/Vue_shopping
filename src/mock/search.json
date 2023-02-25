@@ -1,0 +1,317 @@
+{
+    "code": 200,
+    "message": "成功",
+    "data": {
+        "trademarkList": [
+            {
+                "tmId": 1,
+                "tmName": "小米"
+            },
+            {
+                "tmId": 2,
+                "tmName": "苹果"
+            },
+            {
+                "tmId": 6,
+                "tmName": "VIVO"
+            },
+            {
+                "tmId": 3,
+                "tmName": "华为"
+            },
+            {
+                "tmId": 5,
+                "tmName": "OPPO"
+            },
+            {
+                "tmId": 25,
+                "tmName": "华硕"
+            },
+            {
+                "tmId": 27,
+                "tmName": "戴尔"
+            },
+            {
+                "tmId": 23239,
+                "tmName": "是"
+            },
+            {
+                "tmId": 23275,
+                "tmName": "不是所有的牛奶都叫特仑苏"
+            },
+            {
+                "tmId": 23357,
+                "tmName": "try"
+            }
+        ],
+        "attrsList": [
+            {
+                "attrId": 106,
+                "attrValueList": [
+                    "安卓手机",
+                    "苹果手机"
+                ],
+                "attrName": "手机系统"
+            },
+            {
+                "attrId": 107,
+                "attrValueList": [
+                    "1200mAh到3000mAh",
+                    "3000mAh以上",
+                    "1200mAh以下"
+                ],
+                "attrName": "电池容量"
+            },
+            {
+                "attrId": 23,
+                "attrValueList": [
+                    "128G",
+                    "6G",
+                    "256G",
+                    "8G",
+                    "12G"
+                ],
+                "attrName": "运行内存"
+            },
+            {
+                "attrId": 112,
+                "attrValueList": [
+                    "6.85-6.94英寸",
+                    " 6.75-6.84英寸",
+                    "6.0-6.24英寸",
+                    "6.65-6.74英寸",
+                    "6.95英寸及以上",
+                    "6.55-6.64英寸"
+                ],
+                "attrName": "屏幕尺寸"
+            },
+            {
+                "attrId": 24,
+                "attrValueList": [
+                    "32G",
+                    "256G",
+                    "64G",
+                    "128G"
+                ],
+                "attrName": "机身内存"
+            },
+            {
+                "attrId": 111,
+                "attrValueList": [
+                    "5G骁龙768G",
+                    "骁龙439",
+                    "骁龙845",
+                    "麒麟990"
+                ],
+                "attrName": "CPU型号"
+            },
+            {
+                "attrId": 7730,
+                "attrValueList": [
+                    "3"
+                ],
+                "attrName": "2"
+            },
+            {
+                "attrId": 7726,
+                "attrValueList": [
+                    "22"
+                ],
+                "attrName": "qqqqq"
+            },
+            {
+                "attrId": 37,
+                "attrValueList": [
+                    "C#",
+                    "Java",
+                    "JavaScript"
+                ],
+                "attrName": "分类"
+            },
+            {
+                "attrId": 7126,
+                "attrValueList": [
+                    "谁编写"
+                ],
+                "attrName": "wr"
+            }
+        ],
+        "goodsList": [
+            {
+                "id": 914,
+                "defaultImg": "http://47.93.148.192:8080/group1/M00/00/01/rBHu8l-rfvmAeWopAAEtpBjP1VQ788.jpg",
+                "title": "小米10定制版",
+                "price": 2999.0,
+                "createTime": null,
+                "tmId": null,
+                "tmName": null,
+                "category1Id": null,
+                "category1Name": null,
+                "category2Id": null,
+                "category2Name": null,
+                "category3Id": null,
+                "category3Name": null,
+                "hotScore": 0,
+                "attrs": null
+            },
+            {
+                "id": 2891,
+                "defaultImg": "http://139.198.127.41:9000/sph/20221123/O1CN01phpC0B1wJ2SRKQMKX_!!263726286-0-lubanu-s.jpg_Q75.jpg",
+                "title": "Huawei/华为 P50E 4G全网通手机华为官方旗舰店官网快充P50 pro正品",
+                "price": 4068.0,
+                "createTime": null,
+                "tmId": null,
+                "tmName": null,
+                "category1Id": null,
+                "category1Name": null,
+                "category2Id": null,
+                "category2Name": null,
+                "category3Id": null,
+                "category3Name": null,
+                "hotScore": 0,
+                "attrs": null
+            },
+            {
+                "id": 451,
+                "defaultImg": "http://139.198.127.41:9000/sph/20221025/海光君.jpg",
+                "title": "哦豁",
+                "price": 1.0,
+                "createTime": null,
+                "tmId": null,
+                "tmName": null,
+                "category1Id": null,
+                "category1Name": null,
+                "category2Id": null,
+                "category2Name": null,
+                "category3Id": null,
+                "category3Name": null,
+                "hotScore": 0,
+                "attrs": null
+            },
+            {
+                "id": 1306,
+                "defaultImg": "http://47.93.148.192:8080/group1/M00/07/B2/rBHu8mNfsuyAI9OyAABONBYduUc118.jpg",
+                "title": "sss",
+                "price": 121233.0,
+                "createTime": null,
+                "tmId": null,
+                "tmName": null,
+                "category1Id": null,
+                "category1Name": null,
+                "category2Id": null,
+                "category2Name": null,
+                "category3Id": null,
+                "category3Name": null,
+                "hotScore": 0,
+                "attrs": null
+            },
+            {
+                "id": 3739,
+                "defaultImg": "http://47.93.148.192:8080/group1/M00/00/02/rBHu8l-rgfWAVRWzAABUiOmA0ic932.jpg",
+                "title": "飞利浦山寨机",
+                "price": 49999.0,
+                "createTime": null,
+                "tmId": null,
+                "tmName": null,
+                "category1Id": null,
+                "category1Name": null,
+                "category2Id": null,
+                "category2Name": null,
+                "category3Id": null,
+                "category3Name": null,
+                "hotScore": 0,
+                "attrs": null
+            },
+            {
+                "id": 1213,
+                "defaultImg": "http://139.198.127.41:9000/sph/20221213/壁纸1.jpg",
+                "title": "棒",
+                "price": 3.0,
+                "createTime": null,
+                "tmId": null,
+                "tmName": null,
+                "category1Id": null,
+                "category1Name": null,
+                "category2Id": null,
+                "category2Name": null,
+                "category3Id": null,
+                "category3Name": null,
+                "hotScore": 0,
+                "attrs": null
+            },
+            {
+                "id": 2349,
+                "defaultImg": "http://139.198.127.41:9000/sph/20230102/1.webp",
+                "title": "123",
+                "price": 6.0,
+                "createTime": null,
+                "tmId": null,
+                "tmName": null,
+                "category1Id": null,
+                "category1Name": null,
+                "category2Id": null,
+                "category2Name": null,
+                "category3Id": null,
+                "category3Name": null,
+                "hotScore": 0,
+                "attrs": null
+            },
+            {
+                "id": 1220,
+                "defaultImg": "http://47.93.148.192:8080/group1/M00/08/78/rBHu8mOYToeAcYiHAABFZMeIvcI303.jpg",
+                "title": "testSku",
+                "price": 3.0,
+                "createTime": null,
+                "tmId": null,
+                "tmName": null,
+                "category1Id": null,
+                "category1Name": null,
+                "category2Id": null,
+                "category2Name": null,
+                "category3Id": null,
+                "category3Name": null,
+                "hotScore": 0,
+                "attrs": null
+            },
+            {
+                "id": 1699,
+                "defaultImg": "http://139.198.127.41:9000/sph/20221107/(13).jpg",
+                "title": "史迪仔",
+                "price": 11.0,
+                "createTime": null,
+                "tmId": null,
+                "tmName": null,
+                "category1Id": null,
+                "category1Name": null,
+                "category2Id": null,
+                "category2Name": null,
+                "category3Id": null,
+                "category3Name": null,
+                "hotScore": 0,
+                "attrs": null
+            },
+            {
+                "id": 2031,
+                "defaultImg": "http://139.198.127.41:9000/sph/20221114/huawei图标.jpeg",
+                "title": "型号",
+                "price": 3000.0,
+                "createTime": null,
+                "tmId": null,
+                "tmName": null,
+                "category1Id": null,
+                "category1Name": null,
+                "category2Id": null,
+                "category2Name": null,
+                "category3Id": null,
+                "category3Name": null,
+                "hotScore": 0,
+                "attrs": null
+            }
+        ],
+        "total": 152,
+        "pageSize": 10,
+        "pageNo": 1,
+        "totalPages": 16
+    },
+    "ok": true
+}
